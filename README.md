@@ -256,13 +256,13 @@ class DriverTableViewController: UITableViewController, CLLocationManagerDelegat
 }
 ```
 
-//
-//  AcceptRequestViewController.swift
-//  Uber
-//
-//  Created by zappycode on 6/16/17.
-//  Copyright © 2017 Nick Walter. All rights reserved.
-//
+    //
+    //  AcceptRequestViewController.swift
+    //  Uber
+    //
+      //  Created by zappycode on 6/16/17.
+     //  Copyright © 2017 Nick Walter. All rights reserved.
+    //
 
 import UIKit
 import MapKit

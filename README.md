@@ -264,11 +264,11 @@ class DriverTableViewController: UITableViewController, CLLocationManagerDelegat
      //  Copyright © 2017 Nick Walter. All rights reserved.
     //
 
-import UIKit
-import MapKit
-import FirebaseDatabase
+    import UIKit
+    import MapKit
+    import FirebaseDatabase
 
-class AcceptRequestViewController: UIViewController {
+    class AcceptRequestViewController: UIViewController {
 
     @IBOutlet weak var map: MKMapView!
     
@@ -311,8 +311,8 @@ class AcceptRequestViewController: UIViewController {
                 }
             }
         }
-    }
+     }
     
-}
+     }
 
 ```
